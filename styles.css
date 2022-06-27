@@ -1,0 +1,204 @@
+.gate-title{
+  text-align: center;
+}
+.gate-flex{
+  display: flex;
+  justify-content: center;
+}
+.gate-img{
+  height: auto;
+  width: 25%;
+}
+.gate-enter-flex{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.front-house-title{
+  text-align: center;
+}
+.front-house-flex{
+  display: flex;
+  justify-content: center;
+}
+.front-house-entrance{
+  width: auto;
+  margin-left: 50px;
+}
+.front-house-buttons{
+  display: flex;
+  justify-content: space-evenly;
+}
+.back-car{
+  margin-top: 15px;
+  margin-left: 275px;
+}
+.front-house-enter{
+  margin-right: 325px;
+  margin-top: 15px;
+}
+.back-car-end-title{
+  text-align: center;
+}
+.back-car-end-flex{
+  display: flex;
+  justify-content: center;
+}
+.inside-house-title{
+  text-align: center;
+}
+.inside-house-flex{
+  display: flex;
+  justify-content: center;
+}
+.basement-stair{
+  height: 370px;
+  width: auto;
+  margin-right: 50px;
+}
+.attic-stair{
+  height: 370px;
+  width: auto;
+}
+.inside-house-buttons{
+  text-align: center;
+}
+.basement{
+  margin-right: 150px;
+  margin-top: 15px;
+}
+.attic{
+  margin-left: 250px;
+  margin-top: 15px;
+}
+.lightbulb-title{
+  text-align: center;
+}
+.lightbulb-flex{
+  display: flex;
+  justify-content: center;
+}
+.lightbulb-button{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.attic-start-title{
+  text-align: center;
+}
+.attic-start-flex{
+  display: flex;
+  justify-content: center;
+}
+.attic-start-button{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.basement-lit-title{
+  text-align: center;
+}
+.basement-lit-flex{
+  display: flex;
+  justify-content: center;
+}
+.door{
+  height: auto;
+  width: 450px;
+  margin-right: 50px;
+}
+.basement-lit-buttons{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.basement-door{
+  margin-right: 200px;
+}
+.attic-end-title{
+  text-align: center;
+}
+.attic-end-flex{
+  display: flex;
+  justify-content: center;
+}
+.go-to-person{
+  width: auto;
+  height: 400px;
+  margin-left: 100px;
+}
+.get-to-car{
+  height: auto;
+  width: auto;
+}
+.attic-end-buttons{
+  display: flex; 
+  justify-content: center;
+  margin-top: 15px;
+}
+.investigate{
+  margin-left: 350px;
+}
+.brain-ending-title{
+  text-align: center;
+}
+.brain-ending-flex{
+  display: flex;
+  justify-content: center;
+}
+.no-brain-ending-title{
+  text-align: center;
+}
+.no-brain-ending-flex{
+  display: flex;
+  justify-content: center;
+}
+.inv-end-title{
+  text-align: center;
+}
+.inv-end-flex{
+  display: flex;
+  justify-content: center;
+}
+.crossroads-title{
+  text-align: center;
+}
+.crossroads-flex{
+  display: flex;
+  justify-content: center; 
+}
+.crossroads-buttons{
+  display: flex;
+  justify-content: center;
+    margin-top: 15px;
+}
+.right{
+  margin-left: 150px;
+}
+.final-title{
+  text-align: center;
+}
+.final-flex{
+  display: flex;
+  justify-content: center; 
+}
+.bear-title{
+   text-align: center;
+}
+.bear-flex{
+  display: flex;
+  justify-content: center; 
+}
+.bear{
+  width: 450px;
+  height: auto;
+}
+body{
+  background-color: Black;
+  color: white;
+  font-family: 'BIZ UDGothic', sans-serif;
+}
+button{
+   font-family: 'BIZ UDGothic', sans-serif;
+   background-color: red;
+}
